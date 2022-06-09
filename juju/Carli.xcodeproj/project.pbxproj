@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		142FF95F284AA80D006A1AA7 /* juju.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = juju.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		142FF95F284AA80D006A1AA7 /* Carli.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Carli.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		142FF962284AA80D006A1AA7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		142FF969284AA80D006A1AA7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		142FF96B284AA80E006A1AA7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -41,7 +41,7 @@
 		142FF956284AA80D006A1AA7 = {
 			isa = PBXGroup;
 			children = (
-				142FF961284AA80D006A1AA7 /* juju */,
+				142FF961284AA80D006A1AA7 /* Carli */,
 				142FF960284AA80D006A1AA7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,12 +49,12 @@
 		142FF960284AA80D006A1AA7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				142FF95F284AA80D006A1AA7 /* juju.app */,
+				142FF95F284AA80D006A1AA7 /* Carli.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		142FF961284AA80D006A1AA7 /* juju */ = {
+		142FF961284AA80D006A1AA7 /* Carli */ = {
 			isa = PBXGroup;
 			children = (
 				142FF962284AA80D006A1AA7 /* AppDelegate.swift */,
@@ -65,15 +65,15 @@
 				142FF977284AAB75006A1AA7 /* HowToViewController.swift */,
 				14425B9128512AF400202362 /* ARViewController.swift */,
 			);
-			path = juju;
+			path = Carli;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		142FF95E284AA80D006A1AA7 /* juju */ = {
+		142FF95E284AA80D006A1AA7 /* Carli */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 142FF972284AA80E006A1AA7 /* Build configuration list for PBXNativeTarget "juju" */;
+			buildConfigurationList = 142FF972284AA80E006A1AA7 /* Build configuration list for PBXNativeTarget "Carli" */;
 			buildPhases = (
 				142FF95B284AA80D006A1AA7 /* Sources */,
 				142FF95C284AA80D006A1AA7 /* Frameworks */,
@@ -83,9 +83,9 @@
 			);
 			dependencies = (
 			);
-			name = juju;
+			name = Carli;
 			productName = juju;
-			productReference = 142FF95F284AA80D006A1AA7 /* juju.app */;
+			productReference = 142FF95F284AA80D006A1AA7 /* Carli.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -103,7 +103,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 142FF95A284AA80D006A1AA7 /* Build configuration list for PBXProject "juju" */;
+			buildConfigurationList = 142FF95A284AA80D006A1AA7 /* Build configuration list for PBXProject "Carli" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,7 +116,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				142FF95E284AA80D006A1AA7 /* juju */,
+				142FF95E284AA80D006A1AA7 /* Carli */,
 			);
 		};
 /* End PBXProject section */
@@ -345,7 +345,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		142FF95A284AA80D006A1AA7 /* Build configuration list for PBXProject "juju" */ = {
+		142FF95A284AA80D006A1AA7 /* Build configuration list for PBXProject "Carli" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				142FF970284AA80E006A1AA7 /* Debug */,
@@ -354,7 +354,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		142FF972284AA80E006A1AA7 /* Build configuration list for PBXNativeTarget "juju" */ = {
+		142FF972284AA80E006A1AA7 /* Build configuration list for PBXNativeTarget "Carli" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				142FF973284AA80E006A1AA7 /* Debug */,
